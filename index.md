@@ -19,3 +19,8 @@ this is me my first attempt to markdown
 
 var myVar = 'Hello, world';
 ``` 
+
+
+- [ ] Run up the hill
+- [ ] Check my data balance
+- [ ] Resubscribe
